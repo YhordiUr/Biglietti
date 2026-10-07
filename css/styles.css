@@ -1,0 +1,7 @@
+.sfondo {
+    background-image: url(/images/Hscreen.gif);
+      background-size: cover;
+    background-position: center;
+        height: 600px;
+
+}
